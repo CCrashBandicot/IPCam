@@ -1,11 +1,11 @@
 #!/usr/bin/perl
-# Test on Panasonic BB-HCM581
+# Tested on Panasonic BB-HCM581 and BB-HCM735
 
 use LWP::UserAgent;
 
 system $^O eq 'MSWin32' ? 'cls' : 'clear';
 
-print "\t\n       Panasonic BB-HCM581 grabber\n\n\n";
+print "\t\n       Panasonic grabber\n\n\n";
 
 
 open(op,"<$ARGV[0]") or die "$!";
