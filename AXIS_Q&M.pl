@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# Tested on AXIS Q6032-E
+# Tested on AXIS Q6032-E and M1011
 
 use LWP::UserAgent;
 
