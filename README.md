@@ -7,5 +7,5 @@
 <img src="http://f5nts.pagesperso-orange.fr/aide%20camera/foscam.png" /><br>
 <strong>Use Also Tool FileDownloader Coded by Based Joe For 0wn FosCam</strong><br>
 FileDownloader Try Download //proc/kcore and find creds user & password or bruteforce<br><br>
-<img src="https://media.8ch.net/ipcam/src/1436648283121.png" />
+<img src="https://media.8ch.net/ipcam/src/1436648283121.png" /> 
 
