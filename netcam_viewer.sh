@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# By evil @ 8ch.net/ipcam/
+# By evil @8ch.net/ipcam/
 #
 # This is a proof of concept and is not intended to be used
 # to gain unauthorized access to IP camera systems. Otherwise,
