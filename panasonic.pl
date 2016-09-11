@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# Tested on Panasonic BB-HCM581 and BB-HCM735
+# Tested on Panasonic BB-HCM581 / BB-HCM735 / BL-C160
 
 use LWP::UserAgent;
 
