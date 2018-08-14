@@ -25,6 +25,9 @@ FileDownloader Try Download //proc/kcore and find creds user & password or brute
 <img src="https://i.imgur.com/e2YDidU.png" /> <br><br>
 <h2>Sony Network Camera Product</h2>
 <img src="https://kintronics.com/_webspi/images/pages/ip-camera-systems/snc-ch160.jpg" /><br><br>
+<h3>Axis Password Default : </h3><br>
+admin:admin<br>
+<br>
 <h2>Hikvision Camera Product</h2>
 <img src="https://wiki.2n.cz/hip/inte/files/latest/en/25341425/25341423/1/1519938955958/hik_05.jpg" width="600" height="300" /><br><br>
 
