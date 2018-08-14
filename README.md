@@ -26,13 +26,13 @@ FileDownloader Try Download //proc/kcore and find creds user & password or brute
 <h2>Sony Network Camera Product</h2>
 <img src="https://kintronics.com/_webspi/images/pages/ip-camera-systems/snc-ch160.jpg" /><br><br>
 <h2>Hikvision Camera Product</h2>
-<img src="https://wiki.2n.cz/hip/inte/files/latest/en/25341425/25341423/1/1519938955958/hik_05.jpg" width="400" height="225" /><br><br>
+<img src="https://wiki.2n.cz/hip/inte/files/latest/en/25341425/25341423/1/1519938955958/hik_05.jpg" width="600" height="300" /><br><br>
 
 <h3>Hikvision Default Password :</h3><br>
 admin:12345<br>
 admin:123456<br>
 <br><br>
-Hikvision recognize via responde header "Server: Hikvision-Webs"<br><br>
+Hikvision you will recognize via responde header "Server: Hikvision-Webs"<br><br>
 <h2>Panasonic Network Camera Product</h2>
 <img src="http://i.security-images.com/products/200/panasonic-wv-sf336-ip-camera.jpg" /><br><br>
 <h2>Defeway Camera </h2>
