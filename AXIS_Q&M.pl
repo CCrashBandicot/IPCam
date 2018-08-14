@@ -1,11 +1,11 @@
 #!/usr/bin/perl
-# Tested on AXIS Q6032-E and M1011
+# Tested on AXIS Q6032-E & M1011 and Q7401 
 
 use LWP::UserAgent;
 
 system $^O eq 'MSWin32' ? 'cls' : 'clear';
 
-print "\t\n      AXIS Q6032-E Grabber\n\n\n";
+print "\t\n      AXIS Grabber\n\n\n";
 
 open(op,"<$ARGV[0]") or die "$!";
 while(<op>){
