@@ -35,6 +35,16 @@ admin:123456<br>
 Hikvision you will recognize via responde header "Server: Hikvision-Webs"<br><br>
 <h2>Panasonic Network Camera Product</h2>
 <img src="http://i.security-images.com/products/200/panasonic-wv-sf336-ip-camera.jpg" /><br><br>
+
+<h3>Panasonic Default Password :</h3><br>
+admin / 12345<br>
+none / none<br>
+none / 1234<br>
+admin / 1234<br>
+admin1 / password<br>
+root / 1234<br>
+admin / adminpass<br>
+<br><br>
 <h2>Defeway Camera </h2>
 <img src="http://g02.a.alicdn.com/kf/HTB11PnjKVXXXXXIXFXXq6xXFXXXz/DEFEWAY-CCTV-Cam%C3%A9ra-1200TVL-IR-Cut-Filtre-24-IR-Jour-Nuit-Vision-S%C3%A9curit%C3%A9-%C3%80-La-Maison.jpg" width="300" height="300"/><br><br>
 <h1>ScreenShot</h1><br><br>
